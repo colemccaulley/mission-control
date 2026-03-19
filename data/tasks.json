@@ -1,0 +1,80 @@
+[
+  {
+    "id": "task-001",
+    "title": "Set up Mission Control dashboard",
+    "description": "Build the Next.js dashboard with all screens and navigation",
+    "status": "in_progress",
+    "assignee": "Hal",
+    "priority": "high",
+    "createdAt": "2026-03-18T10:00:00Z",
+    "projectId": "proj-003"
+  },
+  {
+    "id": "task-002",
+    "title": "Design TIL SQL Server schema",
+    "description": "Create the database schema for storing TIL entries with tags and categories",
+    "status": "backlog",
+    "assignee": "Cole",
+    "priority": "medium",
+    "createdAt": "2026-03-17T14:00:00Z",
+    "projectId": "proj-001"
+  },
+  {
+    "id": "task-003",
+    "title": "Research vinyl cataloging APIs",
+    "description": "Look into Discogs API and MusicBrainz for vinyl catalog data",
+    "status": "backlog",
+    "assignee": "Cole",
+    "priority": "low",
+    "createdAt": "2026-03-16T09:00:00Z",
+    "projectId": "proj-002"
+  },
+  {
+    "id": "task-004",
+    "title": "Configure OpenClaw cron scheduler",
+    "description": "Set up the cron job system for automated agent tasks",
+    "status": "review",
+    "assignee": "Hal",
+    "priority": "high",
+    "createdAt": "2026-03-15T11:00:00Z"
+  },
+  {
+    "id": "task-005",
+    "title": "Update resume for SWE roles",
+    "description": "Tailor resume for software engineering positions, highlight AI/agent experience",
+    "status": "in_progress",
+    "assignee": "Cole",
+    "priority": "urgent",
+    "createdAt": "2026-03-14T08:00:00Z",
+    "projectId": "proj-004"
+  },
+  {
+    "id": "task-006",
+    "title": "Write memory system documentation",
+    "description": "Document how the OpenClaw memory system works for future reference",
+    "status": "done",
+    "assignee": "Hal",
+    "priority": "medium",
+    "createdAt": "2026-03-13T15:00:00Z"
+  },
+  {
+    "id": "task-007",
+    "title": "Set up CI/CD pipeline",
+    "description": "Configure GitHub Actions for automated testing and deployment",
+    "status": "backlog",
+    "assignee": "Hal",
+    "priority": "medium",
+    "createdAt": "2026-03-12T10:00:00Z",
+    "projectId": "proj-003"
+  },
+  {
+    "id": "task-008",
+    "title": "Practice system design interviews",
+    "description": "Work through distributed systems design problems",
+    "status": "backlog",
+    "assignee": "Cole",
+    "priority": "high",
+    "createdAt": "2026-03-11T09:00:00Z",
+    "projectId": "proj-004"
+  }
+]

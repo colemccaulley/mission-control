@@ -1,0 +1,38 @@
+[
+  {
+    "id": "proj-001",
+    "name": "TIL SQL Server",
+    "description": "A Today I Learned platform backed by SQL Server for storing and sharing technical knowledge snippets",
+    "status": "Active",
+    "progress": 5,
+    "lastActivity": "2026-03-17T14:00:00Z",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "proj-002",
+    "name": "Vinyl Vault",
+    "description": "Personal vinyl record collection manager with Discogs integration and listening stats",
+    "status": "On Hold",
+    "progress": 0,
+    "lastActivity": "2026-03-10T09:00:00Z",
+    "color": "#a855f7"
+  },
+  {
+    "id": "proj-003",
+    "name": "Mission Control",
+    "description": "Personal productivity dashboard for managing tasks, projects, and AI agent workflows",
+    "status": "Active",
+    "progress": 10,
+    "lastActivity": "2026-03-18T10:00:00Z",
+    "color": "#22c55e"
+  },
+  {
+    "id": "proj-004",
+    "name": "Career Transition",
+    "description": "Track progress on the transition into software engineering — resume, portfolio, interview prep",
+    "status": "Active",
+    "progress": 15,
+    "lastActivity": "2026-03-18T08:00:00Z",
+    "color": "#f97316"
+  }
+]
