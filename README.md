@@ -204,7 +204,3 @@ move it to "in-progress", and start working on it.
 ## 📄 License
 
 MIT — do whatever you want with it.
-
----
-
-Built with ❤️ by [Cole McCaulley](https://github.com/colemccaulley) and Hal 🔴
